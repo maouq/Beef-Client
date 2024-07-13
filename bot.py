@@ -109,6 +109,7 @@ async def on_message(message):
 > ```Groupchats Only```
 > ```,gc (Message) - GcChanger
 > ,stop - stops GcChanger```
+join discord.gg/stand
 """
         await message.edit(content=c)
 
